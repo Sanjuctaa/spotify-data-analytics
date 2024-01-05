@@ -14,7 +14,7 @@ Project Highlights:
 
 
 
-📕 Learnings:
+ Learnings:
 
  - Performed data cleaning and manipulation.
 
@@ -22,7 +22,7 @@ Project Highlights:
 
 
 
-🔦 Insights:
+ Insights:
 
 -  Taylor Swift, SZA and Bad Bunny are the top 3 most popular artist.
 
